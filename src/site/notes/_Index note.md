@@ -4,11 +4,11 @@
 
 ## 1. NLP Paper
 ### 1-1 Backbone model
-- [[1. Transformer/120. NLP/121. Attention is all you need\| 1. Transfoemr - Attention all you Need]]
+- [[1. Transformer/120. NLP/121. Attention is all you need\| 1. Transfoemr - Attention is all you Need]]
 - 
 ## 2. Vision Paper
 ### 2-1 Backbone model
-- [[1. Transformer/110. Vision/111. AN IMAGE IS WORTH 16X16 WORDS - TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (VIT)\| 1. Transformer - VIT]]
+- [[1. Transformer/110. Vision/111. VIT\| 1. Transformer - VIT]]
 - [1. Transfoemr - VIT 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/vit.ipynb)
 
 
