@@ -4,12 +4,13 @@
 
 ## 1. NLP Paper
 ### 1-1 Backbone model
-- [[1. Transformer/120. NLP/121. Attention is all you need\| 1. Transformer - Attention is all you Need]]
+- [[1. Paper/120. NLP/121. Attention is all you need\| 1. Transformer - Attention is all you Need]]
 - 
 ## 2. Vision Paper
 ### 2-1 Backbone model
-- [[1. Transformer/110. Vision/111. VIT\| 1. Transformer - VIT]]
+- [[1. Paper/110. Vision/111. VIT\| 1. Transformer - VIT]]
 - [1. Transformer - VIT 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/vit.ipynb)
+- [[112. PSPnet \| 2. PSPnet]]
 
 
 ## 3. 독서
