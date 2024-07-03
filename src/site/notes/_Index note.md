@@ -11,6 +11,6 @@
 - [1-1. Transformer - VIT 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/vit.ipynb)
 ### 2-2 Semantic segmentation
 - [[1. Paper/110. Vision/112. PSPnet\|1. Semantic segmentation - PSPnet]]
-- [1-1 Semantic segmentation](https://github.com/youngjaean/model-implement-pytorch/blob/main/Pspnet.ipynb)
+- [1-1 Semantic segmentation - PSPnet 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/Pspnet.ipynb)
 ## 3. 독서
 [[2.책 정리/과학/131. 물고기는 존재하지 않는다 - 룰루 밀러 (Lulu Miller)\| 1. 물고기는 존재하지 않는다]]
