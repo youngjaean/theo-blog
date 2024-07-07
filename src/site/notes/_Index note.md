@@ -9,6 +9,7 @@
 ### 2-1 Backbone model
 - [[1. Paper/110. Vision/111. VIT\|1. Transformer - VIT]]
 - [1-1. Transformer - VIT 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/vit.ipynb)
+- [[1. Paper/110. Vision/113. DEIT\|2. Transformer - DEIT]]
 ### 2-2 Semantic segmentation
 - [[1. Paper/110. Vision/112. PSPnet\|1. Semantic segmentation - PSPnet]]
 - [1-1 Semantic segmentation - PSPnet 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/Pspnet.ipynb)
