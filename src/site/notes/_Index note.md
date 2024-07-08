@@ -15,4 +15,4 @@
 - [1-1 Semantic segmentation - PSPnet 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/Pspnet.ipynb)
 ## 3. 독서
 [[2.책 정리/220.과학/221. 물고기는 존재하지 않는다 - 룰루 밀러 (Lulu Miller)\| 1. 물고기는 존재하지 않는다]]
-[[211. 손쉬운 해결책\|2. 손쉬운 해결책]]
+[[2.책 정리/210.철학/211. 손쉬운 해결책 - 제시 싱걸 (Jesse Singal)\|2. 손쉬운 해결책]]
