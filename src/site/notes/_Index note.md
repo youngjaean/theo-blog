@@ -15,8 +15,8 @@
 - [1-1 Semantic segmentation - PSPnet 구현](https://github.com/youngjaean/model-implement-pytorch/blob/main/Pspnet.ipynb)
 
 ## 3. Theory
-- 1. [[1. Paper/130. Theory/131. Few-Shot Learning Survey\|Few-shot learning]]
-- 2[[1. Paper/130. Theory/132. Sharpness-Aware Minimization (SAM)\|Sharpness Aware Minimization]]
+- [[1. Paper/130. Theory/131. Few-Shot Learning Survey\|1.Few-shot learning]]
+- [[1. Paper/130. Theory/132. Sharpness-Aware Minimization (SAM)\|2.Sharpness Aware Minimization]]
 ## 4. 독서
 [[2.책 정리/220.과학/221. 물고기는 존재하지 않는다 - 룰루 밀러 (Lulu Miller)\| 1. 물고기는 존재하지 않는다]]
 [[2.책 정리/210.철학/211. 손쉬운 해결책 - 제시 싱걸 (Jesse Singal)\|2. 손쉬운 해결책]]
